@@ -1,0 +1,9 @@
+{
+  "token": "bot_token",
+  "channels" : [
+    {
+      "attachment_only": true,
+      "id": "channel_id"
+    }
+  ]
+}

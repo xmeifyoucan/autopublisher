@@ -1,0 +1,9 @@
+{
+  "name": "autopublisher",
+  "version": "0.1",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1"
+  }
+}
